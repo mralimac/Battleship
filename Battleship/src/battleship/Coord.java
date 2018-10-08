@@ -10,4 +10,13 @@ public class Coord
 		this.yCoord = yCoord;
 	}
 	
+	public int getXCoord()
+	{
+		return this.xCoord;		
+	}
+	
+	public int getYCoord()
+	{
+		return this.yCoord;
+	}
 }
